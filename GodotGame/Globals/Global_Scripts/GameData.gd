@@ -1,7 +1,7 @@
 extends Node
 
 
-var day:int = 1
+var day:int = 6
 
 var twigItem = 0
 
@@ -29,6 +29,7 @@ var talkToKid = false
 
 var leaveVillageQuest = false
 
+var pseudo_items = []
 
 
 #Dialogue related stuff
