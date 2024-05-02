@@ -153,8 +153,8 @@
         "Item": "sand",
         "Position": [
             {
-                "posX": -868,
-                "posY": 786
+                "posX": -899,
+                "posY": 770
             }
         ],
         "Taken": false
@@ -163,7 +163,7 @@
         "Item": "sand",
         "Position": [
             {
-                "posX": -431,
+                "posX": -396,
                 "posY": 1139
             }
         ],
@@ -253,8 +253,8 @@
         "Item": "Moss",
         "Position": [
             {
-                "posX": 1009,
-                "posY": -461
+                "posX": -563,
+                "posY": -139
             }
         ],
         "Taken": false
@@ -263,8 +263,8 @@
         "Item": "Moss",
         "Position": [
             {
-                "posX": 399,
-                "posY": -227
+                "posX": 409,
+                "posY": -199
             }
         ],
         "Taken": false
@@ -273,8 +273,8 @@
         "Item": "Moss",
         "Position": [
             {
-                "posX": -306,
-                "posY": 303
+                "posX": -293,
+                "posY": 247
             }
         ],
         "Taken": false
@@ -313,8 +313,8 @@
         "Item": "Moss",
         "Position": [
             {
-                "posX": 1738,
-                "posY": 471
+                "posX": 1605,
+                "posY": 722
             }
         ],
         "Taken": false
@@ -323,8 +323,8 @@
         "Item": "Moss",
         "Position": [
             {
-                "posX": 1653,
-                "posY": 873
+                "posX": 1741,
+                "posY": 1158
             }
         ],
         "Taken": false
@@ -333,8 +333,8 @@
         "Item": "Moss",
         "Position": [
             {
-                "posX": 1553,
-                "posY": 982
+                "posX": 1502,
+                "posY": 1390
             }
         ],
         "Taken": false
@@ -343,8 +343,8 @@
         "Item": "Moss",
         "Position": [
             {
-                "posX": 1088,
-                "posY": 1240
+                "posX": 1103,
+                "posY": 1423
             }
         ],
         "Taken": false
@@ -353,8 +353,8 @@
         "Item": "Moss",
         "Position": [
             {
-                "posX": -148,
-                "posY": -588
+                "posX": -128,
+                "posY": -534
             }
         ],
         "Taken": false
@@ -363,8 +363,8 @@
         "Item": "Moss",
         "Position": [
             {
-                "posX": 686,
-                "posY": -662
+                "posX": 711,
+                "posY": -671
             }
         ],
         "Taken": false
@@ -373,8 +373,8 @@
         "Item": "Moss",
         "Position": [
             {
-                "posX": 1115,
-                "posY": -641
+                "posX": 1095,
+                "posY": -669
             }
         ],
         "Taken": false

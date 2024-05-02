@@ -1,7 +1,7 @@
 extends Node
 
 
-var day:int = 6
+var day:int = 0
 
 var twigItem = 0
 
