@@ -92,3 +92,4 @@ func remove_from_inventory(item, amount):
 	else:
 		print("No item to remove")
 #############^^^INVENTORY^^^#############
+
